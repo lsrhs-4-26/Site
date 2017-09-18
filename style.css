@@ -1,0 +1,14 @@
+body {
+  color: green;
+  background-color:lightblue;
+}
+
+h1{
+color:red;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30pt;
+}
+
+img{
+  padding: 20px;
+}
