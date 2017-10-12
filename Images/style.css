@@ -1,0 +1,24 @@
+body {
+  color: green;
+  background-color:turquoise;
+}
+
+h1{
+color:red;
+  font-family: 'Indie Flower', cursive;
+  font-size: 50pt;
+}
+
+h2{
+  color: blue;
+  font-size: 20pt;
+}
+
+a{
+color: green;
+  font-size: 30pt;
+}
+
+img{
+  padding: 20px;
+}
