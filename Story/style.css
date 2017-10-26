@@ -1,0 +1,27 @@
+body {
+  color: green;
+  background-color:black;
+}
+
+
+h1{
+color:orange;
+  font-family: 'Creepster', cursive;
+  font-size: 50pt;
+}
+
+p{
+  color: orange;
+  font-size: 30pt;
+  font-family:'Creepster', cursive;
+}
+
+a{
+color: green;
+  font-size: 30pt;
+  font-family:'Creepster', cursive;
+}
+
+img{
+  padding: 20px;
+}
