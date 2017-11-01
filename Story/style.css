@@ -25,3 +25,9 @@ color: orange;
 img{
   padding: 20px;
 }
+
+li{
+  color:green;
+  font-size: 30pt;
+  font-family:'Creepster'
+}
